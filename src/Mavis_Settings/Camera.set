@@ -1,0 +1,22 @@
+Model	Sensor_Y[mm]	Sensor_X[mm]
+
+<Canon>
+Canon IXUS 127 HS	4.55	6.17
+Canon IXUS 125 HS	4.55	6.17
+Canon IXUS 105	5.1	3.8
+
+Canon PowerShot S110	5.6	7.4
+Canon PowerShot SX260 HS	4.55	6.17
+Canon PowerShot S90	5.55	7.4
+Canon PowerShot S100	5.58	7.44
+
+<Ricoh>
+Ricoh GR DIGITAL 3	5.58	7.44
+Ricoh GR DIGITAL 4	5.58	7.44
+GR DIGITAL 3	6.1	7.6
+
+<Sony>
+ILCE-5100	15.6	23.5
+ILCE-QX1	15.4	23.2
+NEX-5N	15.6	23.4
+NEX-7	15.6	23.5
