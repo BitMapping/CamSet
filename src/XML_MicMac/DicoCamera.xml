@@ -91,19 +91,17 @@
    <CameraEntry>
         <Name> Canon IXUS 105 </Name>
         <SzCaptMm> 3.8 5.1 </SzCaptMm>
-        <ShortName> CI105 </ShortName>
+        <ShortName> IXUS 105 </ShortName>
    </CameraEntry> 
-   </CameraEntry> 
-	<CameraEntry>
+   <CameraEntry> 
         <Name> Canon IXUS 125 HS </Name>
         <SzCaptMm> 4.55 6.17 </SzCaptMm>
-        <ShortName> CI105 </ShortName>
+        <ShortName> IXUS 125 </ShortName>
    </CameraEntry> 
-   </CameraEntry> 
-	<CameraEntry>
+   <CameraEntry> 
         <Name> Canon IXUS 127 HS </Name>
         <SzCaptMm> 4.55 6.17 </SzCaptMm>
-        <ShortName> CI105 </ShortName>
+        <ShortName> IXUS 127 </ShortName>
    </CameraEntry> 
    
  <!-- Nikon DSLR --> 
@@ -203,7 +201,7 @@
     <CameraEntry>
     	<Name> ILCE-QX1 </Name>
     	<SzCaptMm> 15.4	23.2 </SzCaptMm>
-    	<ShortName> a5100 </ShortName>
+    	<ShortName> QX1 </ShortName>
     </CameraEntry>
     
 <!-- Fujifilm --> 
