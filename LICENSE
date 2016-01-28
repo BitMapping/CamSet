@@ -1,3 +1,20 @@
+DicoCamera.xml:
+
+CeCILL-B
+
+La licence CeCCIL-B est une adaptation au droit français de la licence BSD. 
+En première approche, cette licence permet, en échange d’une obligation de citation, 
+une utilisation libre « y compris commerciale » du produit.
+
+Copyright: Institut Geographique National
+Author: Marc Pierrot Deseilligny
+Contributors: Gregoire Maillet, Didier Boldo.
+
+
+
+
+Camera.set:
+
 Licensed under the BSD 2-Clause License:
 
 Copyright (c) 2015, BitMapping GmbH, Karsten Schmidt and Thorsten Behrens
