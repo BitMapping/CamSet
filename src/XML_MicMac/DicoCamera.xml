@@ -1,6 +1,15 @@
 <?xml version="1.0" ?>
 <MMCameraDataBase>
 
+<!-- MicaSense -->
+
+   <CameraEntry>
+        <Name> RedEdge </Name>
+        <SzCaptMm> 5.32 6.66 </SzCaptMm>
+        <ShortName> RedEdge </ShortName>
+   </CameraEntry>
+
+
 <!-- Canon DSLR -->
 
    <CameraEntry>
@@ -86,24 +95,64 @@
         <Name> Canon PowerShot SX260 HS </Name>
         <SzCaptMm> 4.55 6.17 </SzCaptMm>
         <ShortName> CPS110 </ShortName>
-   </CameraEntry>    
-  
+   </CameraEntry>     
    <CameraEntry>
-        <Name> Canon IXUS 105 </Name>
-        <SzCaptMm> 3.8 5.1 </SzCaptMm>
-        <ShortName> IXUS 105 </ShortName>
+        <Name> PowerShot ELPH 110 HS </Name>
+        <SzCaptMm> 4.55	6.17 </SzCaptMm>
+        <ShortName> ELPH110 </ShortName>
    </CameraEntry> 
    <CameraEntry> 
         <Name> Canon IXUS 125 HS </Name>
         <SzCaptMm> 4.55 6.17 </SzCaptMm>
-        <ShortName> IXUS 125 </ShortName>
+        <ShortName> IXUS125 </ShortName>
    </CameraEntry> 
    <CameraEntry> 
         <Name> Canon IXUS 127 HS </Name>
         <SzCaptMm> 4.55 6.17 </SzCaptMm>
-        <ShortName> IXUS 127 </ShortName>
+        <ShortName> IXUS127 </ShortName>
    </CameraEntry> 
-   
+   <CameraEntry> 
+        <Name> PowerShot ELPH 130 IS </Name>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> ELPH130 </ShortName>
+   </CameraEntry>  
+   <CameraEntry>
+         <Name> PowerShot SD1300 IS </Name>
+         <SzCaptMm> 3.8 5.1 </SzCaptMm>
+         <ShortName> SD1300 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon IXUS 105 </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> IXUS105 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon PowerShot ELPH 300 HS </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> ELPH300 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon IXUS 220 HS </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> IXUS220 </ShortName>
+   </CameraEntry>    
+   <CameraEntry>
+         <Name> Canon IXUS 140 </Name>
+         <SzCaptMm> 3.8 5.1 </SzCaptMm>
+         <ShortName> IXUS140 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon PowerShot ELPH 115 </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> ELPH115 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon IXUS 132 HS </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> IXUS132 </ShortName>
+    </CameraEntry> 
+
+
  <!-- Nikon DSLR --> 
 
    <CameraEntry>
@@ -230,39 +279,49 @@
 
     <CameraEntry> 
         <Name> GoPro HD Hero </Name>
-        <SzCaptMm> 4.28 5.75 </SzCaptMm>
-        <ShortName> GoPro HD Hero </ShortName>
+        <SzCaptMm> 4.29 5.76 </SzCaptMm>
+        <ShortName> Hero </ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HD2</Name>
-        <SzCaptMm> 4.69 6.24 </SzCaptMm>
-        <ShortName> GoPro HD Hero 2</ShortName>
+        <SzCaptMm> 4.29 5.76 </SzCaptMm>
+        <ShortName> Hero2</ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HERO3 White Edition</Name>
-        <SzCaptMm> 6.10 8.13 </SzCaptMm>
-        <ShortName> GoPro HD Hero 3</ShortName>
+        <SzCaptMm> 4.29 5.76 </SzCaptMm>
+        <ShortName> Hero3White</ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HERO3 Silver Edition</Name>
-        <SzCaptMm> 5.64 7.53 </SzCaptMm>
-        <ShortName> GoPro HD Hero 3</ShortName>
+        <SzCaptMm> 4.04 5.37 </SzCaptMm>
+        <ShortName> Hero3Silver</ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HERO3 Black Edition</Name>
-        <SzCaptMm> 6.63 8.84 </SzCaptMm>
-        <ShortName> GoPro HD Hero 3</ShortName>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> Hero3Black</ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HERO3+ Silver Edition</Name>
-        <SzCaptMm> 5.64 7.53 </SzCaptMm>
-        <ShortName> GoPro HD Hero 3</ShortName>
+        <SzCaptMm> 4.045.37 </SzCaptMm>
+        <ShortName> Hero3pSilver</ShortName>
     </CameraEntry>
     <CameraEntry>
         <Name> GoPro HERO3+ Black Edition</Name>
-        <SzCaptMm> 6.63 8.84 </SzCaptMm>
-        <ShortName> GoPro HD Hero 3</ShortName>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> Hero3pBlack</ShortName>
     </CameraEntry>
+    <CameraEntry>
+        <Name> GoPro HERO4 Silver Edition</Name>
+        <SzCaptMm> 4.045.37 </SzCaptMm>
+        <ShortName> Hero4Silver</ShortName>
+    </CameraEntry>
+    <CameraEntry>
+        <Name> GoPro HERO4 Black Edition</Name>
+        <SzCaptMm> 4.55 6.17 </SzCaptMm>
+        <ShortName> Hero4Black</ShortName>
+    </CameraEntry>    
     <CameraEntry>
         <Name> GoPro YHDC5170 </Name>
         <SzCaptMm> 2.54 5.91 </SzCaptMm>
