@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <MMCameraDataBase>
 
+<!-- DJI -->
+
+   <CameraEntry>
+        <Name> FC300S </Name>
+        <SzCaptMm> 4.62 6.16 </SzCaptMm>
+        <ShortName> FC300S </ShortName>
+   </CameraEntry>
+
+<!-- MAPIR -->
+   
+   <CameraEntry>
+        <Name> Survey2_IR </Name>
+        <SzCaptMm> 4.63104 6.17472 </SzCaptMm>
+        <ShortName> MAPIR-IR</ShortName>
+   </CameraEntry>   
+
+   <CameraEntry>
+        <Name> Survey2_IR </Name>
+        <SzCaptMm> 4.63104 6.17472 </SzCaptMm>
+        <ShortName> MAPIR-RED</ShortName>
+   </CameraEntry>  
+   
 <!-- MicaSense -->
 
    <CameraEntry>
@@ -151,7 +173,16 @@
          <SzCaptMm> 4.55 6.17 </SzCaptMm>
          <ShortName> IXUS132 </ShortName>
     </CameraEntry> 
-
+    <CameraEntry> 
+         <Name> Canon PowerShot ELPH 160 </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> ELPH160 </ShortName>
+    </CameraEntry> 
+    <CameraEntry> 
+         <Name> Canon IXUS 160 </Name>
+         <SzCaptMm> 4.55 6.17 </SzCaptMm>
+         <ShortName> IXUS160 </ShortName>
+    </CameraEntry> 
 
  <!-- Nikon DSLR --> 
 
