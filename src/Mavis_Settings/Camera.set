@@ -1,17 +1,19 @@
 Model	Sensor_Y[mm]	Sensor_X[mm]
 
 <Canon>
+Canon PowerShot SD1300 IS	4.55	6.17
+Canon IXUS 105	4.55	6.17
 Canon PowerShot ELPH 110 HS	4.55	6.17
 Canon IXUS 127 HS	4.55	6.17
 Canon IXUS 125 HS	4.55	6.17
-Canon PowerShot SD1300 IS	4.55	6.17
-Canon IXUS 105	4.55	6.17
-Canon PowerShot ELPH 300 HS	4.55	6.17
-Canon IXUS 220HS	4.55	6.17
-Canon PowerShot ELPH 130 IS	4.55	6.17
-Canon IXUS 140	4.55	6.17
 Canon PowerShot ELPH 115 IS	4.55	6.17
 Canon IXUS 132 HS	4.55	6.17
+Canon PowerShot ELPH 130 IS	4.55	6.17
+Canon IXUS 140	4.55	6.17
+Canon PowerShot ELPH 160	4.55	6.17
+Canon IXUS 160	4.55	6.17
+Canon PowerShot ELPH 300 HS	4.55	6.17
+Canon IXUS 220HS	4.55	6.17
 
 Canon PowerShot S110	5.58	7.44
 Canon PowerShot SX260 HS	4.55	6.17
@@ -39,3 +41,11 @@ NEX-7	15.6	23.5
 
 <MicaSense>
 RedEdge	5.32	6.66
+
+<MAPIR camera>
+Survey2_IR	4.63104	6.17472 
+Survey2_RED	4.63104	6.17472  
+
+<DJI>
+FC300S	4.62	6.16
+
